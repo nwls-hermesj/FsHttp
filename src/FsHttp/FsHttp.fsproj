@@ -4,6 +4,7 @@
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <PackageId>SchlenkR.FsHttp</PackageId>
     <Description>A lightweight HTTP/REST library for F#.</Description>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="MimeTypes.fs" />
